@@ -25,6 +25,9 @@ Python 3 should be installed to the run the bot...
 1. **for Edge**---- > mah = webdriver.Edge("`PASTE YOUR WEBDRIVER PATH HERE`") #Example ("E:\WebDrivers\chromedriver.exe")
 2. **for Firefox**--- > mah = webdriver.Firefox("`PASTE YOUR WEBDRIVER PATH HERE`") #Example ("E:\WebDrivers\chromedriver.exe")
 
+## Website link to add
+- > mah.get('http://') #Paste the cody website you want to spam
+
 ## Install
 
  - Clone the repository `git clone https://github.com/mah-hacker/Cody-Spambot`
