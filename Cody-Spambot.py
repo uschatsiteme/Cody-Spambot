@@ -16,7 +16,7 @@ inputString = input("Enter message to send: ")
 mah = webdriver.Chrome("PASTE YOUR WEBDRIVER PATH HERE") #Example ("E:\WebDrivers\chromedriver.exe")
 mah.implicitly_wait(15)
 
-mah.get('https://cody.chat4smile.com/')
+mah.get('http://')#Paste the cody website you want to spam
 enter = mah.find_element_by_xpath("/html/body/div[1]/div[3]/div/div/div[2]/button[1]")     
 enter.click()
 
