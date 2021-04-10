@@ -41,3 +41,4 @@ while i<= 1:
     sendmsg.send_keys(inputString)
     submit = mah.find_element_by_id("submit_button")
     submit.click()      
+    time.sleep(3)
