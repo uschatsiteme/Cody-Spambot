@@ -21,6 +21,13 @@ Python 3 should be installed to the run the bot...
 ## Add the Path of your webdriver to
 - > mah = webdriver.Chrome("`PASTE YOUR WEBDRIVER PATH HERE`") #Example ("E:\WebDrivers\chromedriver.exe")
 
+## Add the site name you want to spam to
+- > mah.get("website you want to spam ")#Example:https://tamilhindichat.com
+
+## Remove these lines If there is no Lobby
+- >see = mah.find_element_by_xpath("/html/body/div[3]/div/div/div/div[2]/div[4]/div[2]/div/div[1]")
+- >see.click()
+
 ## Change this line if ur browser is not chrome...
 1. **for Edge**---- > mah = webdriver.Edge("`PASTE YOUR WEBDRIVER PATH HERE`") #Example ("E:\WebDrivers\chromedriver.exe")
 2. **for Firefox**--- > mah = webdriver.Firefox("`PASTE YOUR WEBDRIVER PATH HERE`") #Example ("E:\WebDrivers\chromedriver.exe")
