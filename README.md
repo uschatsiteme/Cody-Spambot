@@ -5,6 +5,9 @@ Works perfectly fine in Windows 10...other OS no idea...
 
 Python 3 should be installed to the run the bot...
 
+##Python 3 Download link
+- https://www.python.org/downloads/
+
 
 ## Webdrivers can be downloaded from here : Check your browser version and download accordingly..
 1. Chrome----> https://chromedriver.chromium.org/ ..
