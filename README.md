@@ -5,7 +5,7 @@ Works perfectly fine in Windows 10...other OS no idea...
 
 Python 3 should be installed to the run the bot...
 
-##Python 3 Download link
+## Python 3 Download link
 - https://www.python.org/downloads/
 
 
