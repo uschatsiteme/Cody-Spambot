@@ -40,8 +40,10 @@ Python 3 should be installed to the run the bot...
 
 ## Install
 
- - Clone the repository `git clone https://github.com/mah-hacker/Cody-Spambot`(Sometime asks for credentials of Github)
-   ------------ Or -------------
+ - Clone the repository `git clone https://github.com/mah-hacker/Cody-Spambot`(Sometime asks for credentials of Github.
+
+      ------------ Or -------------
+
  - Download as Zip and extract
  - Install requirements.txt `pip install -r requirements.txt`
  
